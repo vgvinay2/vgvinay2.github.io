@@ -1,0 +1,10 @@
+# Site settings
+title: Your Welcome!!!
+email: vgvinay2@gmail.com
+description:
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: Vinay Gupta
+github_username:  vgvinay2
+excerpt_separator: ""
+# Build settings
+markdown: kramdown
