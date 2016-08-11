@@ -1,5 +1,9 @@
 _site
 .sass-cache
+<<<<<<< HEAD
 node_modules/
 .idea
 .idea/workspace.xml
+=======
+.idea/
+>>>>>>> 7ecf7d1099a553053043a06f027be615ab41dad4
